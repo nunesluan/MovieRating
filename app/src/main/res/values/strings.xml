@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Movie Rating</string>
+    <string name="type_name">Type the movie name</string>
+    <string name="type_duration">Type the movie duration (min)</string>
+    <string name="type_category">Type the movie category</string>
+    <string name="type_evaluation">Type the movie evaluation</string>
+    <string name="button_register">Register</string>
+
+    <string name="alert_title">Good job!</string>
+    <string name="alert_text">Movie successfully registered.</string>
+    <string name="alert_button">Ok</string>
+
+    <string name="alert_title2">You the boss</string>
+    <string name="alert_text2">Movie successfully deleted.</string>
+
+    <string name="alert_error_title">Error!</string>
+    <string name="alert_error_text">Please, fill in all fields</string>
+    
+    <string-array name="spinner_category">
+        <item>Choose a category</item>
+        <item>Action</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+        <item>Fantasy</item>
+        <item>Horror</item>
+        <item>Mystery</item>
+        <item>Romance</item>
+        <item>Thriller</item>
+    </string-array>
+
+    <string-array name="spinner_evaluation">
+        <item>Make your evaluation</item>
+        <item>1Very bad</item>
+        <item>Bad</item>
+        <item>Good</item>
+        <item>Very good</item>
+        <item>Excellent</item>
+    </string-array>
+
+
+
+
+</resources>

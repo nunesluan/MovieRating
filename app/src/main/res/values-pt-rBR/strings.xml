@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Rating</string>
+    <string name="type_name">Digite o nome do filme</string>
+    <string name="type_duration">Digite a duração do filme (min)</string>
+    <string name="type_category">Digite a categoria do filme</string>
+    <string name="type_evaluation">Digite sua avaliação</string>
+    <string name="button_register">Cadastrar</string>
+
+    <string name="alert_title">Bom trabalho!</string>
+    <string name="alert_text">Filme registrado com sucesso.</string>
+    <string name="alert_button">Ok</string>
+
+    <string name="alert_title2">Você que manda!</string>
+    <string name="alert_text2">Filme deletado com sucesso.</string>
+
+    <string name="alert_error_title">Erro!</string>
+    <string name="alert_error_text">Por favor, preencha todos os campos</string>
+
+    <string-array name="spinner_category">
+        <item>Escolha uma categoria</item>
+        <item>Ação</item>
+        <item>Comédia</item>
+        <item>Drama</item>
+        <item>Fantasia</item>
+        <item>Horror</item>
+        <item>Mistério</item>
+        <item>Romance</item>
+        <item>Thriller</item>
+    </string-array>
+
+    <string-array name="spinner_evaluation">
+        <item>Faça sua avaliação</item>
+        <item>Muito ruim</item>
+        <item>Ruim</item>
+        <item>Bom</item>
+        <item>Muito bom</item>
+        <item>Excelente</item>
+    </string-array>
+
+</resources>
